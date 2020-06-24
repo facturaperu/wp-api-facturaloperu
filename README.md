@@ -26,8 +26,9 @@ _En la siguiente pantalla aparecerá un boton para seleccionar archivo, cargar e
 
 ## Funcionalidad ⚙️
 
-* [Manual de usuario](https://docs.google.com/document/d/10VTOgB3YD9a4UXbxpNQpmZJG0LqodtjSLnM5BBu1nNU/edit?usp=sharing)
 * [Configuraciones previas](https://docs.google.com/document/d/1JqHw1VQKMDwWZvVcvfPEnmL0sWw7DjHyny2PYaXUYdQ/edit?usp=sharing).
+* [Manual de usuario](https://docs.google.com/document/d/10VTOgB3YD9a4UXbxpNQpmZJG0LqodtjSLnM5BBu1nNU/edit?usp=sharing)
+* [Manual integración PRO 3](Release 26 Junio 2020).
 
 ## Autor
 
