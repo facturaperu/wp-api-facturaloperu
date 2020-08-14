@@ -32,6 +32,7 @@ function api_service_rucdni() {
     $response = wp_remote_get( $service_url, array(
         'timeout' => 15,
         'httpversion' => '1.0',
+        'sslverify' => false,
         'headers' => array(
             'Content-Type' => 'application/json',
             'Authorization' => 'Bearer '.$api_token

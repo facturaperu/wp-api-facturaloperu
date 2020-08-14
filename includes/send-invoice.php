@@ -192,9 +192,10 @@ if ( ! function_exists( 'ep_add_sunat_fields' ) )
                     'httpversion' => '1.0',
                     'headers' => array(
                         'Content-Type' => 'application/json',
-                        'Authorization' => 'Bearer '.get_option('facturaloperu_api_config_token')
+                        'Authorization' => 'Bearer '.get_option('facturaloperu_api_config_token'),
                     ),
-                    'body' => $erjsonencode
+                    'sslverify' => false,
+                    'body' => $erjsonencode,
                 ));
 
                 if ( is_wp_error( $response ) ) {

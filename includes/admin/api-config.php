@@ -22,7 +22,7 @@ function facturaloperu_api_config_page_settings(){
     $tab = isset($_GET['tab']) ? $_GET['tab'] : $default_tab;
     ?>
     <div class="wrap">
-        <h2>Configuración de conexión de Coocommerce con FacturaloPeru</h2>
+        <h2>Configuración de conexión de Woocommerce con FacturaloPeru</h2>
         <nav class="nav-tab-wrapper woo-nav-tab-wrapper">
           <a href="?page=facturaloperu-api-config-settings" class="nav-tab <?php if($tab===null):?>nav-tab-active<?php endif; ?>">General</a>
           <a href="?page=facturaloperu-api-config-settings&tab=conection" class="nav-tab <?php if($tab==='conection'):?>nav-tab-active<?php endif; ?>">Conexión API</a>

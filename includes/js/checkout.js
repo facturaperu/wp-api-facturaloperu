@@ -47,8 +47,8 @@ jQuery(document).ready(function($) {
                     } else {
                         var dni = obj.data;
 
-                        $('#billing_first_name').val(dni.first_name);
-                        $('#billing_last_name').val(dni.last_name);
+                        $('#billing_first_name').val(dni.names);
+                        $('#billing_last_name').val(dni.first_name);
                         $('#billing_company').val('');
                         $('#billing_postcode').val('');
                         $('#billing_city').val('');
