@@ -48,7 +48,7 @@ jQuery(document).ready(function($) {
                         var dni = obj.data;
 
                         $('#billing_first_name').val(dni.names);
-                        $('#billing_last_name').val(dni.first_name);
+                        $('#billing_last_name').val(dni.first_name+' '+dni.last_name);
                         $('#billing_company').val('');
                         $('#billing_postcode').val('');
                         $('#billing_city').val('');
@@ -63,32 +63,3 @@ jQuery(document).ready(function($) {
     });
 
 });
-
-
-// RUC ruc/10417844398
-// "data": {
-//         "name": "AGROLIGHT PERU S.A.C.",
-//         "trade_name": "-",
-//         "address": "PJ. JORGE BASADRE NRO. 158 URB.  POP LA UNIVERSAL 2DA ET. ",
-//         "phone": "",
-//         "department": "LIMA",
-//         "department_id": "15",
-//         "province": "LIMA",
-//         "province_id": "1501",
-//         "district": "SANTA ANITA",
-//         "district_id": "150137"
-//     }
-
-// DNI dni/41784439
-
-//     "data": {
-//         "number": "41784439",
-//         "name": "ERIQUE GASPAR, CARLOS ALFREDO",
-//         "names": "CARLOS ALFREDO",
-//         "first_name": "ERIQUE",
-//         "last_name": "GASPAR",
-//         "verification_code": 8,
-//         "date_of_birthday": "20/05/1982",
-//         "sex": "Masculino",
-//         "voting_group": null
-//     }
