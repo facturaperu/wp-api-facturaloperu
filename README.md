@@ -29,7 +29,3 @@ _En la siguiente pantalla aparecerá un boton para seleccionar archivo, cargar e
 * [Configuraciones previas](https://docs.google.com/document/d/1JqHw1VQKMDwWZvVcvfPEnmL0sWw7DjHyny2PYaXUYdQ/edit?usp=sharing).
 * [Manual de usuario](https://docs.google.com/document/d/10VTOgB3YD9a4UXbxpNQpmZJG0LqodtjSLnM5BBu1nNU/edit?usp=sharing)
 * [Manual integración PRO 3](https://docs.google.com/document/d/1eik3I8-p2t0jUiv7BDWvBhDdl6ui4mnkiBl37rdaolk/edit?usp=sharing).
-
-## Autor
-
-**FacturaloPeru** [facturaloperu.com](http://facturaloperu.com)
