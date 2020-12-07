@@ -1,6 +1,6 @@
-# FacturaloPeru | Wordpress | Woocommerce | Plugin Facturación
+# Factura Peru | Wordpress | Woocommerce | Plugin Facturación
 
-_Plugin que conecta realiza envios desde los pedidos de woocomerce hacia la API del Facturador PRO de FacturaloPeru_
+_Plugin que conecta realiza envios desde los pedidos de woocomerce hacia la API del Facturador PRO de Factura Peru_
 
 ## Comenzando
 
